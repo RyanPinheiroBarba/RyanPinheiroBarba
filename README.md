@@ -30,7 +30,8 @@
   <a href="https://www.instagram.com/hypedobarba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="hypedobarba"></a>
   <a href="https://www.linkedin.com/in/ryan-pinheiro-2a8436223/" target="_blank" title="my linked in"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ryanpinheiro1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="send mail"></a>
- 
-  ![Snake animation](https://github.com/RyanPinheiroBarba/RyanPinheiroBarba/blob/output/github-contribution-grid-snake.svg)
+
+![rocket svg]
+ <iframe src="https://embed.lottiefiles.com/animation/127014"></iframe>
  
 </div>
