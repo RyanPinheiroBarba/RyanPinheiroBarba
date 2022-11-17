@@ -2,7 +2,7 @@
 ## E ai coder cansados! Me chamo Ryan Pinheiro, conhecido como barba 
 
 <div align= "center">
-  <p class="aboutMe" style="font-family:'Roboto', sans-serif">
+  <p class="aboutMe">
     <strong>Sobre mim:</strong>
 
   Sou um cara bem normal, com uma história cheia de besteiras e burradas, como a maioria de vocês, mas que no auge dos 30 anos de idade, resolveu ser dev.
