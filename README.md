@@ -18,7 +18,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Ryan-Git" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="Unix-n-Bash">
    <img align="center" alt="Ryan-Git" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" title="Git">
    <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
    <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
