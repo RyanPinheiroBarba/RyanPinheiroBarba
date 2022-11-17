@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/RyanPinheiroBarba">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 <div style="display: inline_block"><br>
