@@ -7,8 +7,11 @@
     </p>
  </div>
  <div align="center">
-  <img src="https://img.shields.io/github/followers/RyanPinheiroBarba?label=seguidores&logo=GitHub&style=social">
-  <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?style=social">
+  <img src="https://img.shields.io/github/followers/RyanPinheiroBarba?label=seguidores&logo=GitHub&style=plastic">
+  <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?logo=GitHub&style=plastic">
+  <img src="https://img.shields.io/github/languages/count/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
+  <img src="https://img.shields.io/github/languages/top/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
+  <img src="https://img.shields.io/discord/1026989543884328970?logo=discord&style=plastic">
  </div>
  
 <div align="center">
