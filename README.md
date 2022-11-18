@@ -4,7 +4,6 @@
 <div align= "center">
   <p class="aboutMe">
     <strong>Sobre mim:</strong>
-
   Sou um cara bem normal, com uma história cheia de besteiras e burradas, como a maioria de vocês, mas que no auge dos 30 anos de idade, resolveu ser dev.
   Ao me deparar com mercados de trabalho desleais na minha antiga área (marketing) e com o avanço e valorização da tecnologia no mundo, senti que tinha que mudar de ares e encarar um novo desafio.
   Encorajado pela minha esposa (Rapha te amo <3) e apoiado pela família, eu comecei a estudar para migrar de área.
@@ -23,14 +22,14 @@
    <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
    <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
 </div>
-  
+<div>  
 <h4 align="center">My social media</h4>
- 
+</div>
 <div> 
   <a href="https://www.instagram.com/hypedobarba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="hypedobarba"></a>
   <a href="https://www.linkedin.com/in/ryan-pinheiro-2a8436223/" target="_blank" title="my linked in"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ryanpinheiro1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="send mail"></a>
-
-<img align="center" alt="RocketRyan "src="https://lottiefiles.com/127014-rocket" title="Rocketman">
- 
+</div>
+<div>
+  <img src="https://assets10.lottiefiles.com/packages/lf20_13mYuqdmso.json"  background="transparent"  speed="0.3"  style="width: 30px; height: 30px;"  loop controls autoplay title="RocketMan">
 </div>
