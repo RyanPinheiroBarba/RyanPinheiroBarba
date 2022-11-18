@@ -1,4 +1,3 @@
-<h2 align="center">Hey sad coders! Lets go! 🧔🏾🚀</h2>
 <h2 align="center">E ai coder cansados! Faaaala comigo! 🧔🏾🚀</h2>
 
 <div align= "center">
