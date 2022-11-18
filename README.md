@@ -11,7 +11,25 @@
   <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?logo=GitHub&style=plastic">
   <img src="https://img.shields.io/github/languages/count/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
   <img src="https://img.shields.io/github/languages/top/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
-  <img src="https://img.shields.io/discord/1026989543884328970?logo=discord&style=plastic">
+  <img src="https://img.shields.io/discord/1026989543884328970?logo=discord&style=plastic"><br>
+  <!-- 
+      Guardar badges que eu vou estudar
+  <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
+  https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+  https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+  https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+  https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+  https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+  https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+  https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+  https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+  https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+  -->
  </div>
  
 <div align="center">
@@ -30,6 +48,7 @@
       <!--
         <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
       -->
+  <img heigth="60" width="90" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <hr size="1" width="100%" align="center">
 <div>  
