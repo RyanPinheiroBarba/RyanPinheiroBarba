@@ -1,9 +1,9 @@
-## Hey! My name is Ryan Pinheiro aka Barba 
-## E ai coder cansados! Me chamo Ryan Pinheiro, conhecido como barba 
+## Hey sad coders! Lets go! 🧔🏾🚀
+## E ai coder cansados! Faaaala comigo! 🧔🏾🚀
 
 <div align= "center">
-  <p class="aboutMe">
-    <strong>Sobre mim:</strong>
+  <div class="aboutMe">
+    <p><strong>Sobre mim:</strong><br>
   Sou um cara bem normal, com uma história cheia de besteiras e burradas, como a maioria de vocês, mas que no auge dos 30 anos de idade, resolveu ser dev.
   Ao me deparar com mercados de trabalho desleais na minha antiga área (marketing) e com o avanço e valorização da tecnologia no mundo, senti que tinha que mudar de ares e encarar um novo desafio.
   Encorajado pela minha esposa (Rapha te amo <3) e apoiado pela família, eu comecei a estudar para migrar de área.
@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/RyanPinheiroBarba">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="20em"  src="https://wakatime.com/badge/user/6438a240-a7a1-4d5c-8249-83dea4680783.svg"/><br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 <div style="display: inline_block"><br>
