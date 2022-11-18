@@ -1,25 +1,20 @@
-<h2 align="center">E ai coder cansados! Faaaala comigo! 🧔🏾🚀</h2>
-
-<div align= "center">
-  <div class="aboutMe">
+<h2 align="center">E aii, coders cansados! Eu sou o Ryan Pinheiro, então... faaaala comigo! 🧔🏾🧑🏾‍💻🚀</h2>
+  <div class="aboutMe" align="center">
     <p><strong>Sobre mim:</strong><br>
-  Sou um cara bem normal, com uma história cheia de besteiras e burradas, como a maioria de vocês, mas que no auge dos 30 anos de idade, resolveu ser dev.
-  Ao me deparar com mercados de trabalho desleais na minha antiga área (marketing) e com o avanço e valorização da tecnologia no mundo, senti que tinha que mudar de ares e encarar um novo desafio.
-  Encorajado pela minha esposa (Rapha te amo <3) e apoiado pela família, eu comecei a estudar para migrar de área.
-  Hoje sou estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
-  Bora compartilhar, vamos pra cima.
-  </p>
-</div>
+      Estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
+      Bora compartilhar, vamos pra cima.🧑🏾‍💻🎯💻☕💻✅🔁
+    </p>
+ </div>
 <div align="center">
   <a href="https://github.com/RyanPinheiroBarba">
-  <img height="20em"  src="https://wakatime.com/badge/user/6438a240-a7a1-4d5c-8249-83dea4680783.svg"/><br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Ryan-Git" height="30" width="70" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" title="Git">
    <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
    <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
+   <!--<img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">-->
 </div>
 <div>  
 <h4 align="center">My social media</h4>
