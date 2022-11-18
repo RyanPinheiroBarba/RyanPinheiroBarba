@@ -8,6 +8,8 @@
  </div>
  
 <div align="center">
+  <!-- [START BADGES] -->
+<!-- [END BADGES] -->
   <a href="https://github.com/RyanPinheiroBarba">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
@@ -26,7 +28,7 @@
 </div>
 <hr size="1" width="100%" align="center">
 <div>  
-<h4 align="center">Badge Menu</h4>
+<h4 align="center">Meus Contatos</h4>
 </div>
 <div align="center"> 
   <a href="https://www.instagram.com/hypedobarba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="hypedobarba"></a>
