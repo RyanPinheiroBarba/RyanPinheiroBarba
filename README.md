@@ -17,13 +17,17 @@
    <!--<img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">-->
 </div>
 <div>  
-<h4 align="center">My social media</h4>
+<h4 align="center">Minhas Redes Sociais</h4>
 </div>
 <div> 
   <a href="https://www.instagram.com/hypedobarba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="hypedobarba"></a>
   <a href="https://www.linkedin.com/in/ryan-pinheiro-2a8436223/" target="_blank" title="my linked in"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ryanpinheiro1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="send mail"></a>
+  <!-- <img max-width="20%" src="https://picrew.me/image_maker/1374338/complete?cd=OFMTqIVpIK" alt="picme"> -->
 </div>
 <div>
-  <img src="https://assets10.lottiefiles.com/packages/lf20_13mYuqdmso.json"  background="transparent"  speed="0.3"  style="width: 30px; height: 30px;"  loop controls autoplay title="RocketMan">
+ <!-- <img src="https://assets10.lottiefiles.com/packages/lf20_13mYuqdmso.json"  background="transparent"  speed="0.3"  style="width: 30px; height: 30px;"  loop controls autoplay title="RocketMan"> -->
+</div>
+<div>
+<img max-width="100%" src="https://github.com/RyanPinheiroBarba/RyanPinheiroBarba/raw/output/github-contribution-grid-snake.svg" alt="cobrinhaSVG">
 </div>
