@@ -1,4 +1,4 @@
-<h2 align="center">E aii, coders cansados! Eu sou o Ryan Pinheiro, então... faaaala comigo! 🧔🏾🧑🏾‍💻🚀</h2>
+<h2 align="center">E aii, coders cansados! Pra quem me conhece eu sou o barba e pra quem não me conhece eu também sou o barba, então... faaaala comigo! 🧔🏾🧑🏾‍💻🚀</h2>
   <div class="aboutMe" align="center">
     <p><strong>Sobre mim:</strong><br>
       Estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
