@@ -7,6 +7,7 @@
     </p>
  </div>
  <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{RyanPinheiroBarba}1212%2Fhit-counter">
   <img src="https://img.shields.io/github/followers/RyanPinheiroBarba?label=seguidores&logo=GitHub&style=plastic">
   <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?logo=GitHub&style=plastic">
   <img src="https://img.shields.io/github/languages/count/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
@@ -34,9 +35,16 @@
  
 <div align="center">
   <a href="https://github.com/RyanPinheiroBarba">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india">
+  <!-- <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user={RyanPinheiroBarba}"> --> 
 </div>
+  <div align="center">
+    <img height="30" width="90" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+    <img height="30" width="85" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img height="30" width="75"src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img height="30" width="85" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+  </div>
 <hr size="1" width="100%" align="center">
 <div align="center" border="1" bordercolor="orange">
 <h4 align="center">Minhas Tecnologias Atuais</h4>
@@ -48,7 +56,6 @@
       <!--
         <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
       -->
-  <img heigth="60" width="90" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <hr size="1" width="100%" align="center">
 <div>  
