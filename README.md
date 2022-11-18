@@ -40,6 +40,5 @@
 <div align="center">
 <hr size="1" width="100%" align="center">
 <h4 align="center">Área interativa</h4>
-<hr size="1" width="100%" align="center">
 <img max-width="100%" src="https://github.com/RyanPinheiroBarba/RyanPinheiroBarba/raw/output/github-contribution-grid-snake.svg" alt="cobrinhaSVG">
 </div>
