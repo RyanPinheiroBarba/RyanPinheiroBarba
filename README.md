@@ -6,10 +6,12 @@
       🧑🏾‍💻🎯💻☕💻✅🔁
     </p>
  </div>
+ <div align="center">
+  <img src="https://img.shields.io/github/followers/RyanPinheiroBarba?label=seguidores&logo=GitHub&style=social">
+  <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?style=social">
+ </div>
  
 <div align="center">
-  <!-- [START BADGES] -->
-<!-- [END BADGES] -->
   <a href="https://github.com/RyanPinheiroBarba">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india"/>
