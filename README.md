@@ -35,7 +35,8 @@
 <div align="center">
   <a href="https://github.com/RyanPinheiroBarba">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india">
+  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact&langs_count=7&theme=flag-india">
+  <img height="158em" src="https://starchart.cc/RyanPinheiroBarba/trybe.svg">
   <!-- <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user={RyanPinheiroBarba}"> --> 
 </div>
   <div align="center">
