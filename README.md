@@ -8,6 +8,7 @@
  </div>
  <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{RyanPinheiroBarba}1212%2Fhit-counter">
+  <img src="https://img.shields.io/github/stars/RyanPinheiroBarba?color=brighteen%20green&label=trybe%20stars&logo=github&style=plastic">
   <img src="https://img.shields.io/github/followers/RyanPinheiroBarba?label=seguidores&logo=GitHub&style=plastic">
   <img src="https://img.shields.io/github/downloads/RyanPinheiroBarba/RyanPinheiroBarba/total?logo=GitHub&style=plastic">
   <img src="https://img.shields.io/github/languages/count/RyanPinheiroBarba/trybe?logo=Github&style=plastic">
