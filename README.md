@@ -1,10 +1,12 @@
-<h2 align="center">E aii, coders cansados! Pra quem me conhece eu sou o barba e pra quem não me conhece eu também sou o barba, então... faaaala comigo! 🧔🏾🧑🏾‍💻🚀</h2>
+<h1 align="center">Fala comigo Dev, eu sou o Ryan Pinheiro e te faço um convite, let's code?</h1>
+<h3 align="center">Eu desejo que todos tenhamos uma carreira brilhante, quem puder e quiser me ajudar, pode chegar, quem precisar e eu for capaz, estamos aí!<br>🧔🏾🧑🏾‍💻🚀</h3>
+
   <div class="aboutMe" align="center">
-    <p><strong>Sobre mim:</strong><br>
-      Estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
+    <h4><strong>Sobre mim:</strong></h3>
+      <p>Estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
       Bora compartilhar, vamos pra cima.<br>
       🧑🏾‍💻🎯💻☕💻✅🔁
-    </p>
+    </>
  </div>
  <div align="center">
   <img width="85" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{RyanPinheiroBarba}1212%2Fhit-counter">
