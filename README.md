@@ -1,11 +1,11 @@
 <h1 align="center">Fala comigo Dev, eu sou o Ryan Pinheiro e te faço um convite, let's code?</h1>
-<h3 align="center">Eu desejo que todos tenhamos uma carreira brilhante, quem puder e quiser me ajudar, pode chegar, quem precisar e eu for capaz, estamos aí!<br>🧔🏾🧑🏾‍💻🚀</h3>
+<h3 align="center">Eu desejo que todos tenhamos uma carreira brilhante, quem puder e quiser me ajudar, pode chegar, quem precisar e eu for capaz, estamos aí!<br>🧔🏾‍💻🚀</h3>
 
   <div class="aboutMe" align="center">
     <h4><strong>Sobre mim:</strong></h3>
       <p>Estudante dev em constante evolução e estarei postando a minha rotina de códigos aqui sempre que possível. 
       Bora compartilhar, vamos pra cima.<br>
-      🧑🏾‍💻🎯💻☕💻✅🔁
+      🎯💻☕💻✅🔁
     </>
  </div>
  <div align="center">
