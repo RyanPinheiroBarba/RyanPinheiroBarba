@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
   https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
   https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
   https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
   https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
   https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
   https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
@@ -39,26 +37,41 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RyanPinheiroBarba&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPinheiroBarba&layout=compact">
   <img height="158em" src="https://starchart.cc/RyanPinheiroBarba/trybe.svg">
-  <!-- <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user={RyanPinheiroBarba}"> --> 
+  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user={RyanPinheiroBarba}">
+</div>
+  <hr size="1" width="100%" align="center">
+<div align="center" border="1" bordercolor="orange">
+<h4 align="center">Meu BackTool</h4>
 </div>
   <div align="center">
     <img height="30" width="90" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+    <img height="30" width="90" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
     <img height="30" width="85" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img height="30" width="75"src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    <img height="30" width="85" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+    <img height="30" width="85" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img height="30" width="85" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
   </div>
 <hr size="1" width="100%" align="center">
 <div align="center" border="1" bordercolor="orange">
 <h4 align="center">Minhas Tecnologias Atuais</h4>
 </div>
-<div align="center">
-  <img align="center"alt="Ryan-Git" height="30" width="70" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" title="Git">
-  <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-      <!--
-        <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
-      -->
+  <div align="center">
+    <img align="center"alt="Ryan-Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git">
+    <img align="center" alt="Ryan-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5">
+    <img align="center" alt="Ryan-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
+    <img align="center" alt="Ryan-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black" title="Javascript">
+    <img align="center" alt="Ryan-Jest" height="30" width="80" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
+    <img align="center" alt="Ryan-React" height="30" width="80" src="https://img.shields.io/badge/React-002160?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">
+  </div>
+<hr size="1" width="100%" align="center">
+<div>  
+<h4 align="center">Meus Validadores de Identação</h4>
 </div>
+  <div align="center">
+    <img height="30" width="100" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+    <img height="30" width="100" src="https://img.shields.io/badge/prettier-F7C407?style=for-the-badge&logo=prettier&logoColor=black">
+    <img height="30" width="100"src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+  </div>
 <hr size="1" width="100%" align="center">
 <div>  
 <h4 align="center">Meus Contatos</h4>
@@ -67,10 +80,6 @@
   <a href="https://www.instagram.com/hypedobarba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="hypedobarba"></a>
   <a href="https://www.linkedin.com/in/ryan-pinheiro-2a8436223/" target="_blank" title="my linked in"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ryanpinheiro1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="send mail"></a>
-  <!-- <img max-width="20%" src="https://picrew.me/image_maker/1374338/complete?cd=OFMTqIVpIK" alt="picme"> -->
-</div>
-<div>
- <!-- <img src="https://assets10.lottiefiles.com/packages/lf20_13mYuqdmso.json"  background="transparent"  speed="0.3"  style="width: 30px; height: 30px;"  loop controls autoplay title="RocketMan"> -->
 </div>
 <div align="center">
 <hr size="1" width="100%" align="center">
