@@ -61,7 +61,7 @@
     <img align="center" alt="Ryan-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3">
     <img align="center" alt="Ryan-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black" title="Javascript">
     <img align="center" alt="Ryan-Jest" height="30" width="80" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
-    <img align="center" alt="Ryan-React" height="30" width="80" src="https://img.shields.io/badge/React-002160?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">
+    <img align="center" alt="Ryan-React" height="30" width="95" src="https://img.shields.io/badge/React-002160?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">
   </div>
 <hr size="1" width="100%" align="center">
 <div>  
