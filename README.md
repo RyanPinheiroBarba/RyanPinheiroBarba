@@ -81,11 +81,13 @@
   <a href="https://www.linkedin.com/in/ryan-pinheiro-2a8436223/" target="_blank" title="my linked in"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ryanpinheiro1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="send mail"></a>
 </div>
+    <!--
 <div align="center">
 <hr size="1" width="100%" align="center">
 <h4 align="center">Área interativa</h4>
 <img max-width="100%" src="https://github.com/RyanPinheiroBarba/RyanPinheiroBarba/raw/output/github-contribution-grid-snake.svg" alt="cobrinhaSVG">
 </div>
+    -->
   <hr size="1" width="100%" align="center">
   <cite align="center"> README.md construido inspirado no vídeo sobre perfis do GitHub da Rafa Ballerini: <br>  https://www.youtube.com/watch?v=TsaLQAetPLU</cite>
   <hr size="1" width="100%" align="center">
